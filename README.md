@@ -21,9 +21,6 @@ A modern and responsive admin dashboard built with React.js and Tailwind CSS. Th
 - Tailwind CSS
 - Vite
 
-## 📸 Screenshots
-
-_Add screenshots of your application here._
 
 ## 🎯 About the Project
 
